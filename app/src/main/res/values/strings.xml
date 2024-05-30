@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quotes App</string>
+    <string-array name="quotes">
+        <item>"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."\n\n<font size="30"><b>*** Albert Einstein ***</b></font></item>
+        <item>"The greatest glory in living lies not in never falling, but in rising every time we fall."\n\n<font size="30"><b>*** Nelson Mandela ***</b></font></item>
+        <item>"Be the change that you wish to see in the world."\n\n<font size="30"><b>*** Mahatma Gandhi ***</b></font></item>
+        <item>"Success is not final, failure is not fatal: it is the courage to continue that counts."\n\n<font size="30"><b>*** Winston Churchill ***</b></font></item>
+        <item>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."\n\n<font size="30"><b>*** Steve Jobs ***</b></font></item>
+        <item>"I have not failed. I've just found 10,000 ways that won't work."\n\n<font size="30"><b>*** Thomas Edison ***</b></font></item>
+        <item>"The only true wisdom is in knowing you know nothing."\n\n<font size="30"><b>*** Socrates ***</b></font></item>
+        <item>"Real knowledge is to know the extent of one's ignorance."\n\n<font size="30"><b>*** Confucius ***</b></font></item>
+        <item>"If I have seen further it is by standing on the shoulders of Giants."\n\n<font size="30"><b>*** Isaac Newton ***</b></font></item>
+        <item>"Not all of us can do great things. But we can do small things with great love."\n\n<font size="30"><b>*** Mother Teresa ***</b></font></item>
+        <item>"I have decided to stick with love. Hate is too great a burden to bear."\n\n<font size="30"><b>*** Martin Luther King Jr. ***</b></font></item>
+        <item>"Carry out a random act of kindness, with no expectation of reward, safe in the knowledge that one day, someone might do the same for you."\n\n<font size="30"><b>*** Princess Diana ***</b></font></item>
+        <item>"Every child is an artist. The problem is how to remain an artist once we grow up."\n\n<font size="30"><b>*** Pablo Picasso ***</b></font></item>
+        <item>"Art is never finished, only abandoned."\n\n<font size="30"><b>*** Leonardo da Vinci ***</b></font></item>
+        <item>"The secret of getting ahead is getting started."\n\n<font size="30"><b>*** Mark Twain ***</b></font></item>
+    </string-array>
+    <string name="display_quote">Display Quote</string>
+    <string name="instruction_text">Please click the \"Display Quote\" button to show the quotes.</string>
+    <string name="last_quotes_message">You have come to the end of the list of quotes. Restart the app to view them once again!</string>
+    <string name="close_app">Close App</string>
+</resources>
